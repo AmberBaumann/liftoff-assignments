@@ -10,10 +10,13 @@ For this assignment, you'll create some initial plans for your project.
 
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
 
-* Wireframe 1
+* [Wireframe 1](C:\Users\13035\Desktop\liftoff-assignments\Images\IMG-4190.jpg)
     * ![Screenshot (83)](https://user-images.githubusercontent.com/74880884/117075446-6fa7c700-acfa-11eb-8077-92072bff6b4b.png)
-    * ![Screenshot (82)](https://user-images.githubusercontent.com/74880884/117075460-7b938900-acfa-11eb-8c86-d4175ec21231.png)
-    * ![Screenshot (81)](https://user-images.githubusercontent.com/74880884/117075469-80583d00-acfa-11eb-88ce-bd5eea61a4a7.png)
+    
+*[Wireframe 2](C:\Users\13035\Desktop\liftoff-assignments\Images\Screenshot (80).png)
+    * ![Screenshot (80)](https://user-images.githubusercontent.com/74880884/117087802-32e9c900-ad16-11eb-99d9-91dd770885cd.png)
+*[Wireframe 3](C:\Users\13035\Desktop\liftoff-assignments\Images\IMG-4190.jpg)
+    * ![IMG-4190](https://user-images.githubusercontent.com/74880884/117087884-6c223900-ad16-11eb-9add-ec0aa48149bf.jpg)
 
 
 ### Project Tracker
